@@ -3,7 +3,7 @@
 > **Platform:** Hack The Box  
 > **Machine:** Nexus  
 > **OS:** Linux  
-> **Difficulty:** —  
+> **Difficulty:** Easy/Medium  
 > **Focus:** Web enumeration, Gitea, Git internals, path traversal, systemd, SSH key-based privilege escalation
 
 ---
